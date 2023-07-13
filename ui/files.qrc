@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/clipboard.png</file>
+        <file>img/logo.png</file>
+        <file>img/newLogo.png</file>
+        <file>img/unnamed.gif</file>
+        <file>img/unnamed.png</file>
+        <file>img/config.png</file>
+        <file>img/search.png</file>
+        <file>img/user.png</file>
+        <file>img/user-vip.png</file>
+        <file>img/loader.gif</file>
+        <file>img/nouser.png</file>
+        <file>img/ping.png</file>
+        <file>img/telephone-call.png</file>
+        <file>img/mail.png</file>
+        <file>img/windows.png</file>
+	<file>img/welcomescreen.png</file>
+    </qresource>
+</RCC>
